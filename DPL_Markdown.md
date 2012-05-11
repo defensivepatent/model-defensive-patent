@@ -60,13 +60,13 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(d) This License does not extend to any DPL User whose Offering Announcement occurs later than Licensor’s last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
   
-(e) Licensor reserves the right to revoke this License if:
-    
-		(i) Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
+	(e) Licensor reserves the right to revoke this License if:
   
-		(ii) Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
-    
-		(iii) Licensee transfers a Patent to an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
+	* (i) Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
+  
+	* (ii) Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
+  
+	* (iii) Licensee transfers a Patent to an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
   
 	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party. 
   
