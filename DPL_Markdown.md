@@ -60,16 +60,15 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(d) This License does not extend to any DPL User whose Offering Announcement occurs later than Licensor’s last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
   
-	(e) Licensor reserves the right to revoke this License if:
+	(e) Licensor reserves the right to revoke this License if
   
-	* (i) Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
+		(i) Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
   
-	* (ii) Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
+		(ii) Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
   
-	* (iii) Licensee transfers a Patent to an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
+		(iii) Licensee transfers a Patent to an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
   
-	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party. 
+	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party.
   
-	(g) UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.  LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LICENSE, INCLUDING INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES, WHETHER ON WARRANTY, CONTRACT, NEGLIGENCE, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES PRIOR TO SUCH AN OCCURRENCE.  
-  
+	(g) UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.  LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LICENSE, INCLUDING INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES, WHETHER ON WARRANTY, CONTRACT, NEGLIGENCE, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES PRIOR TO SUCH AN OCCURRENCE.
   
