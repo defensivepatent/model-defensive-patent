@@ -12,4 +12,4 @@ The DPL is the [brainchild of Professors Jason Shultz and Jennifer Urban at Berk
 
 ### Contact ###
 
-For more information, visit [our website](http://defensivepatentlicense.com/) or feel free to drop us a line directly at defensivepatent AT gmail DOT com. Also check us out [Facebook](https://www.facebook.com/DefensivePatent/) and [Twitter](https://twitter.com/#!/defensivepatent) for the latest. 
+For more information, visit [our website](http://defensivepatentlicense.com/) or feel free to drop us a line directly at [defensivepatent@gmail.com](mailto:defensivepatent@gmail.com). Also check us out on [Facebook](https://www.facebook.com/DefensivePatent/) and [Twitter](https://twitter.com/#!/defensivepatent) for the latest. 
