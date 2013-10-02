@@ -36,7 +36,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 12. 'Offering Announcement' means an entity’s or individual’s announcement that:
   
-	(a) declares the entity's or individual’s commitment to offer a license to its Patents under the DPL, or, if such entity or individual has no Patents, has committed to offer a license to any Patents it may obtain in the future under the DPL; and
+	(a) declares the entity's or individual’s commitment to offer a license to its Patents (if any) under the DPL, and has committed to offer a license to any Patents it may obtain in the future under the DPL; and
   
 	(b) contains the entity's or individual’s contact information; and
   
@@ -69,3 +69,4 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party.
   
 	(g) UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.  LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LICENSE, INCLUDING INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES, WHETHER ON WARRANTY, CONTRACT, NEGLIGENCE, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES PRIOR TO SUCH AN OCCURRENCE.
+
