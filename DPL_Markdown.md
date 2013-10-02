@@ -22,7 +22,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 4. 'Discontinuation Date' means the date six (6) months after the date of an individual or entity’s most recent Discontinuation Announcement.
   
-5. 'DPL Website' means a website to be established to publish DPL announcements.
+5. 'DPL Website' means a website to be established by the DPL Foundation to publish DPL announcements.
   
 6. 'Infringement Claim' means a lawsuit, binding arbitration, or administrative action, or other filed legal proceeding, including a counterclaim or cross-claim, alleging patent infringement.
   
@@ -34,7 +34,15 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 10. 'Licensor' means any individual, corporation, partnership or other entity with the right to grant licenses in Licensed Patents under this License, including all Affiliates of such entity. For purposes of this Section
   
-11. 'Affiliate' means a corporation, partnership, or other entity more than fifty percent (50%) of whose ownership interest representing the right to make the decisions for such corporation, partnership or other entity is now or hereafter, owned or controlled, directly or indirectly, by Licensor.
+11. An 'Affiliate' of an 'Affiliator' means a corporation, partnership, subsidiary, affiliate, company, or other entity meeting one or more of the following conditions:
+
+	(a)  more than fifty percent (50%) of the ownership interest representing the right to make the decisions for the Affiliate is now or hereafter, owned or controlled, directly or indirectly, by Affiliator, 
+  
+	(b)  more than fifty percent (50%) of whose profit interest representing the right to the profits of the Affiliate is now or hereafter, owned or controlled, directly or indirectly, by Affiliator, 
+  
+	(c)  the Affiliate is controlled, directly or indirectly, including through one or more intermediaries, by the Affiliator,
+  
+	(d)  the Affiliator is an Affiliate of Affiliate (that is to say, if A is an Affiliate of B, then B is also an Affiliate of A)
   
 12. 'Offering Announcement' means an entity’s or individual’s announcement that:
   
