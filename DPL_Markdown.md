@@ -22,7 +22,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 4. 'Discontinuation Date' means the date six (6) months after the date of an individual or entity’s most recent Discontinuation Announcement.
   
-5. 'DPL Website' means a website to be established to publish DPL announcements.
+5. 'DPL Website' means a website to be established by the DPL Foundation to publish DPL announcements.
   
 6. 'Infringement Claim' means a lawsuit, binding arbitration, or administrative action, or other filed legal proceeding, including a counterclaim or cross-claim, alleging patent infringement.
   
