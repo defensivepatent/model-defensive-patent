@@ -14,11 +14,9 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 3.  'DPL User' means an entity or individual that:
   
-	(a) has committed to offer a license to each of its Patents under the DPL, or, if such entity or individual has no Patents, has committed to offer a license to any Patents it may obtain in the future under the DPL; and
+	(a) has made an offering annoucement and commits to the promises in the announcement
   
-	(b) has declared such commitment by means of an Offering Announcement;
-  
-	(c) and, if the entity or individual has made a Discontinuation Announcement, the Discontinuation Date has not yet occurred.
+	(b) and, if the entity or individual has made a Discontinuation Announcement, the Discontinuation Date has not yet occurred.
   
 4. 'Discontinuation Date' means the date six (6) months after the date of an individual or entity’s most recent Discontinuation Announcement.
   
@@ -30,9 +28,9 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 8. 'Licensed Patents' means any and all Patents (a) owned or controlled by Licensor; or (b) under which Licensor has the right to grant licenses without the consent of or payment to a third party (other than an employee inventor).
   
-9. 'Licensee' means any individual, corporation, partnership or other entity exercising rights granted by the Licensor under this License including all Affiliates of such entity. For purposes of this Section 1.9, 'Affiliate' means a corporation, partnership, or other entity more than fifty percent (50%) of whose ownership interest representing the right to make the decisions for such corporation, partnership or other entity is now or hereafter, owned or controlled, directly or indirectly, by Licensee.
-  
-10. 'Licensor' means any individual, corporation, partnership or other entity with the right to grant licenses in Licensed Patents under this License, including all Affiliates of such entity. For purposes of this Section
+9. 'Licensee' means any individual, corporation, partnership or other entity exercising rights granted by the Licensor under this License including all Affiliates of such entity. 
+
+10. 'Licensor' means any individual, corporation, partnership or other entity with the right to grant licenses in Licensed Patents under this License, including all Affiliates of such entity.
   
 11. 'Affiliate' means a corporation, partnership, or other entity more than fifty percent (50%) of whose ownership interest representing the right to make the decisions for such corporation, partnership or other entity is now or hereafter, owned or controlled, directly or indirectly, by Licensor.
   
@@ -48,7 +46,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 ### 2. License Grant ###
   
-1. Subject to the conditions and limitations of this License and upon affirmative assent to the commitments specified in Section 1.3 from an individual DPL User, Licensor hereby grants to such DPL User a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Section 2.2(f)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute products that would otherwise infringe any claim of Licensed Patents.
+1. Subject to the conditions and limitations of this License and upon affirmative assent to the commitments specified in Section 1.3 and Section 12 from an individual DPL User, Licensor hereby grants to such DPL User a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Section 2.2(e)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute products that would otherwise infringe any claim of Licensed Patents.
   
 2. Notwithstanding the foregoing, this License is expressly subject to and limited by the following restrictions:
   
@@ -71,4 +69,3 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party.
   
 	(g) UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.  LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LICENSE, INCLUDING INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES, WHETHER ON WARRANTY, CONTRACT, NEGLIGENCE, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES PRIOR TO SUCH AN OCCURRENCE.
-  
