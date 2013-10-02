@@ -14,7 +14,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 3.  'DPL User' means an entity or individual that:
   
-	(a) has committed to offer a license to each of its Patents under the DPL, or, if such entity or individual has no Patents, has committed to offer a license to any Patents it may obtain in the future under the DPL; and
+	(a) has committed to offer a license to each of its Patents (if any) under the DPL, and has committed to offer a license to any Patents it may obtain in the future under the DPL; and
   
 	(b) has declared such commitment by means of an Offering Announcement;
   
@@ -38,7 +38,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 12. 'Offering Announcement' means an entity’s or individual’s announcement that:
   
-	(a) declares the entity's or individual’s commitment to offer a license to its Patents under the DPL, or, if such entity or individual has no Patents, has committed to offer a license to any Patents it may obtain in the future under the DPL; and
+	(a) declares the entity's or individual’s commitment to offer a license to its Patents (if any) under the DPL, and has committed to offer a license to any Patents it may obtain in the future under the DPL; and
   
 	(b) contains the entity's or individual’s contact information; and
   
