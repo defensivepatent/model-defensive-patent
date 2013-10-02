@@ -10,7 +10,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(a) declares the DPL User’s intent to discontinue offering to license its Licensed Patents under the DPL on the Discontinuation Date; and
   
-	(b) is submitted to the DPL Website six months prior to a Discontinuation Date.
+	(b) is submitted to the DPL Website three (3) years prior to a Discontinuation Date.
   
 3.  'DPL User' means an entity or individual that:
   
@@ -20,7 +20,9 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(c) and, if the entity or individual has made a Discontinuation Announcement, the Discontinuation Date has not yet occurred.
   
-4. 'Discontinuation Date' means the date six (6) months after the date of an individual or entity’s most recent Discontinuation Announcement.
+	An entity or individual shall be considered a DPL User only during its Participation Period(s).
+
+4. 'Discontinuation Date' means the date three (3) years after the date of an individual or entity’s most recent Discontinuation Announcement.
   
 5. 'DPL Website' means a website to be established to publish DPL announcements.
   
@@ -28,7 +30,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 7. 'License' and 'DPL' mean the grant, conditions, and limitations herein.
   
-8. 'Licensed Patents' means any and all Patents (a) owned or controlled by Licensor; or (b) under which Licensor has the right to grant licenses without the consent of or payment to a third party (other than an employee inventor).
+8. 'Licensed Patents' means any and all Patents (a) owned or controlled by Licensor, during the Participation Period of Licensor; or (b) under which Licensor has the right to grant licenses without the consent of or payment to a third party (other than an employee inventor), during the Participation Period of Licensor.
   
 9. 'Licensee' means any individual, corporation, partnership or other entity exercising rights granted by the Licensor under this License including all Affiliates of such entity. For purposes of this Section 1.9, 'Affiliate' means a corporation, partnership, or other entity more than fifty percent (50%) of whose ownership interest representing the right to make the decisions for such corporation, partnership or other entity is now or hereafter, owned or controlled, directly or indirectly, by Licensee.
   
@@ -46,9 +48,12 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 13. 'Patent' means any right, now or later acquired, under any national or international patent law from a governmental body authorized to issue such rights, including rights embodied within patent applications, granted patents, including, but not limited to, continuations, continuations-in-part, divisionals, provisionals, results of any patent reexaminations, and reissues.
   
+'Participation Period' means, with respect to a particular DPL User, the period commencing on the date on which the DPL User has submitted an Offering Announcement to the DPL Website and such Offering Announcement has been signed by an authorized representative of the DPL and of the DPL User and ending on the Discontinuation Date corresponding to the first Discontinuation Announcement submitted by the DPL User after such Offering Announcement. A DPL User may have more than one Participation Period – for example, by submitting a first Offering Announcement followed by a first Discontinuation Announcement, followed by a second Offering Announcement, provided, however, that the subsequent Offering Announcement is submitted not less than 6 months after the previous Discontinuation Date. Participation Period shall not include any period of time between a Discontinuation Date and the date that the DPL User later submits another Offering Announcement, and any Offering Announcement that is submitted less than 6 months after a previous Discontinuation Date shall be of no effect in starting a new Participation Period.
+
+
 ### 2. License Grant ###
   
-1. Subject to the conditions and limitations of this License and upon affirmative assent to the commitments specified in Section 1.3 from an individual DPL User, Licensor hereby grants to such DPL User a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Section 2.2(f)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute products that would otherwise infringe any claim of Licensed Patents.
+1. Subject to the conditions and limitations of this License, each Licensor hereby grants and agrees to grant to each Licensee a worldwide, royalty-free, non-exclusive, non-transferable license under such Licensor’s Licensed Patents, for the term of such Licensor’s applicable Participation Period, to make, have made (subject to the provisions of Section 2.1.1 below), operate, use, sell, offer for sale, import, or distribute products that would otherwise infringe any claim of Licensed Patents.
   
 2. Notwithstanding the foregoing, this License is expressly subject to and limited by the following restrictions:
   
