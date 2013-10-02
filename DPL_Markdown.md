@@ -69,8 +69,11 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 
 ### 2. License Grant ###
   
-1 Subject to the conditions and limitations of this License, each Licensor hereby grants and agrees to grant to each Licensee a worldwide, royalty-free, non-exclusive, irrevocable (except as stated in Section 2.2(f)), non-transferable license, perpetual for the term of the relevant Licensed Patents, under such Licensor’s Licensed Patents, operate, use, sell, offer for sale, import, or distribute Licensed Products and Services.
+1(a) Subject to the conditions and limitations of this License, each Licensor hereby grants and agrees to grant to each Licensee a worldwide, royalty-free, non-exclusive, irrevocable (except as stated in Section 2.2(f)), non-transferable license, perpetual for the term of the relevant Licensed Patents, under such Licensor’s Licensed Patents, operate, use, sell, offer for sale, import, or distribute Licensed Products and Services.
   
+1(b) Limitations on Have Made Rights. The license granted to a Licensee in Section 2.1(a) to have products made by another manufacturer shall apply only if the design and specifications for such products are furnished by the Licensee in a substantially completed form to the manufacturer and the manufacturer adheres to the design and specifications so furnished. In addition, if a third party manufacturer making products under have-made rights transfers such products to any Entity other than the Licensee on whose behalf such products were made, those products will not be considered to be Licensed Products and Services and will not be within the scope of the license rights set forth in Section 2.1(a).
+
+
 2. Notwithstanding the foregoing, this License is expressly subject to and limited by the following restrictions:
   
 	(a) This License does not include the right to sublicense any Licensed Patent.
