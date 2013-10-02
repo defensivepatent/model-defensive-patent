@@ -24,7 +24,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 5. 'DPL Website' means a website to be established to publish DPL announcements.
   
-6. 'Infringement Claim' means a lawsuit, binding arbitration, or administrative action, or other filed legal proceeding, including a counterclaim or cross-claim, alleging patent infringement.
+6. 'Infringement Claim' means a lawsuit, binding arbitration, or administrative action, or other filed legal proceeding, including a counterclaim or cross-claim, including but not limited to claims made before the International Trade Commission or similar body, alleging patent infringement.
   
 7. 'License' and 'DPL' mean the grant, conditions, and limitations herein.
   
