@@ -22,7 +22,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 5. 'DPL Website' means a website to be established by the DPL Foundation to publish DPL announcements.
   
-6. 'Infringement Claim' means a lawsuit, binding arbitration, or administrative action, or other filed legal proceeding, including a counterclaim or cross-claim, alleging patent infringement.
+6. 'Infringement Claim' means a lawsuit, binding arbitration, or administrative action, or other filed legal proceeding, including a counterclaim or cross-claim, including but not limited to claims made before the International Trade Commission or similar body, alleging patent infringement.
   
 7. 'License' and 'DPL' mean the grant, conditions, and limitations herein.
   
@@ -69,4 +69,3 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party.
   
 	(g) UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.  LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LICENSE, INCLUDING INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES, WHETHER ON WARRANTY, CONTRACT, NEGLIGENCE, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES PRIOR TO SUCH AN OCCURRENCE.
-
