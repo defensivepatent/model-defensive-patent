@@ -12,13 +12,13 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(b) is submitted to the DPL Website six months prior to a Discontinuation Date.
   
-3.  'DPL User' means an entity or individual that:
+3.  'DPL User' means an Entity that:
   
 	(a) has made an offering annoucement and commits to the promises in the announcement
   
-	(b) and, if the entity or individual has made a Discontinuation Announcement, the Discontinuation Date has not yet occurred.
-  
-4. 'Discontinuation Date' means the date six (6) months after the date of an individual or entity’s most recent Discontinuation Announcement.
+	(b) and, if the Entity has made a Discontinuation Announcement, the Discontinuation Date has not yet occurred.
+
+4. 'Discontinuation Date' means the date six (6) months after the date of an Entity’s most recent Discontinuation Announcement.
   
 5. 'DPL Website' means a website to be established by the DPL Foundation to publish DPL announcements.
   
@@ -28,21 +28,26 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 8. 'Licensed Patents' means any and all Patents (a) owned or controlled by Licensor; or (b) under which Licensor has the right to grant licenses without the consent of or payment to a third party (other than an employee inventor).
   
-9. 'Licensee' means any individual, corporation, partnership or other entity exercising rights granted by the Licensor under this License including all Affiliates of such entity. 
+9. 'Licensee' means any Entity exercising rights granted by the Licensor under this License including all Affiliates of such Entity.
 
-10. 'Licensor' means any individual, corporation, partnership or other entity with the right to grant licenses in Licensed Patents under this License, including all Affiliates of such entity.
+10. 'Licensor' means any Entity with the right to grant licenses in Licensed Patents under this License, including all Affiliates of such Entity.
   
-11. 'Affiliate' means a corporation, partnership, or other entity more than fifty percent (50%) of whose ownership interest representing the right to make the decisions for such corporation, partnership or other entity is now or hereafter, owned or controlled, directly or indirectly, by Licensor.
+11. 'Affiliate' means an Entity more than fifty percent (50%) of whose ownership interest representing the right to make the decisions for such Entity is now or hereafter, owned or controlled, directly or indirectly, by Licensor.
   
-12. 'Offering Announcement' means an entity’s or individual’s announcement that:
+12. 'Offering Announcement' means an Entity’s announcement that:
   
-	(a) declares the entity's or individual’s commitment to offer a license to its Patents (if any) under the DPL, and has committed to offer a license to any Patents it may obtain in the future under the DPL; and
+	(a) declares the Entity's commitment to offer a license to its Patents (if any) under the DPL, and has committed to offer a license to any Patents it may obtain in the future under the DPL; and
   
-	(b) contains the entity's or individual’s contact information; and
+	(b) contains the Entity's contact information; and
   
 	(c) is submitted to the DPL Website.
   
 13. 'Patent' means any right, now or later acquired, under any national or international patent law from a governmental body authorized to issue such rights, including rights embodied within patent applications, granted patents, including, but not limited to, continuations, continuations-in-part, divisionals, provisionals, results of any patent reexaminations, and reissues.
+
+“Entity” means an individual, corporation, trust, partnership, joint venture, limited liability company, association, unincorporated organization, subsidiary, company or other legal or governmental entity.
+
+
+
   
 ### 2. License Grant ###
   
@@ -64,8 +69,9 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	*(ii)* Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
   
-	*(iii)* Licensee transfers a Patent to an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
+	*(iii)* Licensee transfers a Patent to an Entity other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
   
 	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party.
   
 	(g) UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT EMBODYING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE.  LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LICENSE, INCLUDING INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES, WHETHER ON WARRANTY, CONTRACT, NEGLIGENCE, OR OTHERWISE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES PRIOR TO SUCH AN OCCURRENCE.
+
