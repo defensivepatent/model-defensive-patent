@@ -4,13 +4,22 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 ### 1. Definitions ###
   
-1. 'Defensive Patent Claim' means an Infringement Claim against a party made in response to a prior Infringement Claim by said party against the asserter of the Defensive Patent Claim.
+1. 'Defensive Patent Claim' means an Infringement Claim against a party ('Target') by a Claimant or its product or service, provided that all of the following are true:
+  
+	(a) Defensive Patent Claim is made in response to a prior Infringement Claim ('Prior Infringement Claim') by Target or an Affiliate of Target,
+
+	(b) the Prior Infringement Claim was against either Claimant, or an Affiliate of Claimant, or a product or service of Claimant or an Affiliate of Claimant,
+
+	(c) Claimant is a DPL User or its Affiliate,
+
+	(d) Target is a DPL User or its Affiliate, or was at the time of the prior Infringement Claim
+
   
 2. 'Discontinuation Announcement' means a DPL User’s announcement that:
   
 	(a) declares the DPL User’s intent to discontinue offering to license its Licensed Patents under the DPL on the Discontinuation Date; and
   
-	(b) is submitted to the DPL Website six months prior to a Discontinuation Date.
+	(b) is submitted by an authorized representative to the DPL Website six months prior to a Discontinuation Date.
   
 3.  'DPL User' means an entity or individual that:
   
@@ -20,7 +29,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(c) and, if the entity or individual has made a Discontinuation Announcement, the Discontinuation Date has not yet occurred.
   
-4. 'Discontinuation Date' means the date six (6) months after the date of an individual or entity’s most recent Discontinuation Announcement.
+4. 'Discontinuation Date' means the date six (6) months after the date a Discontinuation Announcement is submitted to the DPL Website.
   
 5. 'DPL Website' means a website to be established to publish DPL announcements.
   
