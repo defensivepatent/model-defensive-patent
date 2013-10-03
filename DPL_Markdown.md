@@ -88,9 +88,9 @@ Termination of Licenses Upon Withdrawal. If a DPL User withdraws from the DPL by
   
 	(d) This License does not extend to any DPL User whose Offering Announcement occurs later than Licensor’s last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
   
-	(e) Licensor reserves the right to revoke this License if
+	(e) Licensor reserves the right to revoke this License
   
-	*(i)* Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
+	*(i)* with regard to a named Licensee upon written notice, if such named Licensee asserts any patent infringement claim in any form or forum, not including Defensive Patent Claims, against any DPL User or its Affiliate or their products or services, including but not limited to Licensor, and such named Licensee does not dismiss or otherwise withdraw its patent infringement claim within 30 days after receiving such notice. In such event, Licensor shall retain its License to such named Licensee’s Licensed Patents hereunder. In order to revoke, the revoking Licensor must include in its written notice to the named Licensee the fact that the Entity against whom the named Licensee has asserted the patent infringement claim is a DPL User or its Affiliate. For the avoidance of doubt, a patent infringement claim made against an Entity that was not a DPL User or its Affiliate at the time the claim was made does not trigger the revocation right under this Section 2.2(c), even if such Entity later becomes a DPL User.
   
 	*(ii)* Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
 
