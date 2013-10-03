@@ -61,7 +61,9 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 ### 2. License Grant ###
   
 1. Subject to the conditions and limitations of this License and upon affirmative assent to the commitments specified in Section 1.3 and Section 12 from an individual DPL User, Licensor hereby grants to such DPL User a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Section 2.2(e)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute products that would otherwise infringe any claim of Licensed Patents.
-  
+
+Termination of Licenses Upon Withdrawal. If a DPL User withdraws from the DPL by issuing a Discontinuation Announcement then, as of the applicable Discontinuation Date, the License of the withdrawing DPL User and its Affiliates to the Licensed Patents of other Licensors is automatically terminated and each Licensee’s License to the Licensed Patents of the withdrawing DPL User and its Affiliates is automatically terminated.  
+
 2. Notwithstanding the foregoing, this License is expressly subject to and limited by the following restrictions:
   
 	(a) This License does not include the right to sublicense any Licensed Patent.
