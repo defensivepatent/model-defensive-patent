@@ -60,13 +60,13 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(d) This License does not extend to any DPL User whose Offering Announcement occurs later than Licensor’s last Discontinuation Date that has not been followed by a subsequent Offering Announcement by Licensor.
   
-	(e) Licensor reserves the right to revoke this License if
+	(e) Licensor reserves the right to revoke this License
   
-	*(i)* Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
+	*(i)* with regard to a named Licensee upon written notice, if such named Licensee asserts any patent infringement claim in any form or forum, not including Defensive Patent Claims, against any DPL User or its Affiliate or their products or services, including but not limited to Licensor, and such named Licensee does not dismiss or otherwise withdraw its patent infringement claim within 30 days after receiving such notice. In such event, Licensor shall retain its License to such named Licensee’s Licensed Patents hereunder. In order to revoke, the revoking Licensor must include in its written notice to the named Licensee the fact that the Entity against whom the named Licensee has asserted the patent infringement claim is a DPL User or its Affiliate. For the avoidance of doubt, a patent infringement claim made against an Entity that was not a DPL User or its Affiliate at the time the claim was made does not trigger the revocation right under this Section 2.2(c), even if such Entity later becomes a DPL User.
   
-	*(ii)* Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
+	*(ii)* if Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
   
-	*(iii)* Licensee transfers a Patent to an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
+	*(iii)* if Licensee transfers a Patent to an entity or individual other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
   
 	(f) Licensor makes no representations and disclaims any and all warranties as to the validity of the Licensed Patents or that products or processes covered by Licensed Patents do not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any other party.
   
