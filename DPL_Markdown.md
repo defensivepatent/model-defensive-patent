@@ -72,10 +72,33 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 
 
   
+'Clone Product or Service' means a product or service of a Licensee that meets all of the following conditions:
+  
+	(a) includes substantially identical functionality of all or a commercially substantial portion of a prior-released product or service (“Prior Product or Service”) of a Licensor
+  
+	(b) implements the same or substantially the same proprietary user interface of the Prior Product or Service
+  
+	(c) targets the same market as the Prior Product or Service
+  
+	(d) contains no substantial additional functionality beyond that offered by the Prior Product or Service at the time of the release of the Clone Product or Service
+
+'Foundry Services or Products' means services provided by Licensee to, or products manufactured by Licensee for or on behalf of, a specific third party, using designs or specifications received in a substantially completed form from that third party, for resale or relicense to or on behalf of that third party, serving the function of allowing that third party to gain the benefits of the Foundary's DPL licensee status without assuming the responsibility of becoming a DPL licensor, except if any of the following are true:
+  
+        (a) Licensee owns the design or specification of such service or product and the service or product is not specifically designed for commercial exploitation substantially only by such Third Party; or
+  
+        (b) such design or specification resulted from a bona fide joint development or joint participation between Licensee and such Third Party, including but not limited to a standards body or community organization and the resulting products, services or components provided by Licensee meet the definition of Licensed Services Product or Products as set forth herein.
+
+'Licensed Products and Services' means products and services of Licensee that practice one or more claims of one or more Licensed Patents of a Licensor, but excluding Foundry Services or Products and Clone Products or Services, after the Cloner or Foundry or their Affiliates have been notified for 90 days, said notification including a precise list of patents infringed and, for each patent, a precise list of infringing products and services, and, for each infringing product or service, a justification for which part of that product or service infringes and in which way, as well as a justification for why the product or service is alleged to be a Foundry or Clone.
+   
+
+
+
 ### 2. License Grant ###
+1(a) Subject to the conditions and limitations of this License, each Licensor hereby grants and agrees to grant to each Licensee a worldwide, royalty-free, non-exclusive, irrevocable (except as stated in Section 2.2(f)), non-transferable license, perpetual for the term of the relevant Licensed Patents, under such Licensor’s Licensed Patents, operate, use, sell, offer for sale, import, or distribute Licensed Products and Services.
   
-1. Subject to the conditions and limitations of this License and upon affirmative assent to the commitments specified in Section 1.3 and Section 12 from an individual DPL User, Licensor hereby grants to such DPL User a worldwide, royalty-free, no-charge, non-exclusive, irrevocable (except as stated in Section 2.2(e)) license, perpetual for the term of the relevant Licensed Patents, to make, have made, use, sell, offer for sale, import, and distribute products that would otherwise infringe any claim of Licensed Patents.
-  
+1(b) Limitations on Have Made Rights. The license granted to a Licensee in Section 2.1(a) to have products made by another manufacturer shall apply only if the design and specifications for such products are furnished by the Licensee in a substantially completed form to the manufacturer and the manufacturer adheres to the design and specifications so furnished. In addition, if a third party manufacturer making products under have-made rights transfers such products to any Entity other than the Licensee on whose behalf such products were made, those products will not be considered to be Licensed Products and Services and will not be within the scope of the license rights set forth in Section 2.1(a).
+
+
 2. Notwithstanding the foregoing, this License is expressly subject to and limited by the following restrictions:
   
 	(a) This License does not include the right to sublicense any Licensed Patent.
