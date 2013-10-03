@@ -85,9 +85,20 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 	*(i)* Licensee makes any Infringement Claim, not including Defensive Patent Claims, against a DPL User; or
   
 	*(ii)* Licensee discontinues being a DPL User, as of the date of such Licensee’s Discontinuation Date; or
-  
+
 	*(iii)* Licensee transfers a Patent to an Entity other than a DPL User without conditioning the transfer on the transferee continuing to abide by the terms of this license for as long as Licensee is a DPL User.
  
+### Assignment and Change of Control ###
+
+1 Assignment. No Licensor or Licensee or its Affiliate may assign this Defensive Patent License or its rights hereunder, including but not limited to by operation of law, and any attempt to do so shall be void.
+
+2 Change of Control. In the event that a DPL User undergoes a Change of Control, and the Controlling Party or Surviving Party, as applicable, is not itself a DPL User as of the effective date of such Change of Control, then the DPL User undergoing the Change of Control shall automatically cease to be a DPL User as of the effective date of such Change of Control plus three years, and such effective date shall be deemed to be its Discontinuation Date, unless the Controlling Party or the Surviving Party, as applicable, elects to become a DPL User by issuing an Offering Announcement.
+
+'Change of Control' means, with respect to a DPL User, that at least one of the following conditions is true:
+        (a) the direct or indirect acquisition (except for transactions described in clause (b) of this subsection below), whether in one or a series of transactions by any Entity or related Entities (the 'Controlling Entity') of (i) ownership, beneficial or otherwise, of issued and outstanding shares of capital stock of such DPL User, the result of which acquisition is that such Controlling Entity possesses 50% or more of the combined voting power of all then-issued and outstanding capital stock of such DPL User, or (ii) the power to elect, appoint, or cause the election or appointment of at least a majority of the members of the board of directors (or such other governing body that exercises a similar level of control) of such DPL User (in the event such DPL User or any successor Entity is not a corporation);
+        (b) a merger, consolidation or other reorganization or recapitalization of such DPL User with an Entity or a direct or indirect subsidiary of such Entity (the 'Surviving Entity'), provided that the result of such merger, consolidation or other reorganization or recapitalization, whether in one or a series of related transactions, is that the holders of the outstanding voting stock of such DPL User immediately prior to such consummation do not possess, whether directly or indirectly, immediately after the consummation of such transaction, in excess of 50% of the combined voting power of all then-issued and outstanding stock of the Surviving Entity, or its direct or indirect parent.
+
+
 ### Disclaimer of Warranties ###
 
 UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT OR SERVICE PRACTICING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE. Without limiting the generality of the foregoing, each Licensor disclaims any and all warranties as to title or the validity of its Licensed Patents or that the exercise of the License granted by Licensor hereunder will not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any third party.
