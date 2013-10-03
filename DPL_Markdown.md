@@ -35,7 +35,11 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 7. 'License' and 'DPL' mean the grant, conditions, and limitations herein.
   
-8. 'Licensed Patents' means any and all Patents (a) owned or controlled by Licensor; or (b) under which Licensor has the right to grant licenses without the consent of or payment to a third party (other than an employee inventor).
+8.1 'Licensed Patent' means, with respect to a particular Licensor, any Patent owned or controlled or acquired (including through acquisition of an Entity owning or controlling such Patent) by Licensor during a Participation Period of Licensor, or with respect to which Licensor has, or later obtains, during a Participation Period of Licensor the right to grant licenses to Licensee of or within the scope granted in this License without such grant or the exercise of rights thereunder resulting in the payment of royalties or other consideration by Licensor to third parties (except for payments among Entities that form part of Licensor, and payments to third parties for inventions made by the third parties while employed by Licensor or while engaged by Licensor to make such inventions). 
+
+8.2 With respect to any Patent of Licensor that, as of the date of commencement of the relevant Participation Period, is subject to a written exclusive license agreement or other written agreement that precludes or is inconsistent with the grant of a license to Licensee of the scope that would otherwise be granted in this License, which agreement was entered into in good faith and not for the purpose of avoiding the grant hereunder either generally or with respect to a particular DPL User or its Affiliate(s), such Patent shall be considered a Licensed Patent only to the extent of the scope of license that such agreement permits Licensor to make, and the grant of license in Section 2.1 below with respect to such Patent shall be deemed modified to such extent. 
+
+8.3 For the avoidance of doubt, if Licensor enters into a written agreement governing one or more Patents of Licensor for the purpose of avoiding the grant hereunder to such Patents either generally or with respect to a particular DPL User or its Affiliate(s), Licensor nonetheless grants the License in Section 2.1 below with respect to such Patents.
   
 9. 'Licensee' means any Entity exercising rights granted by the Licensor under this License including all Affiliates of such Entity.
 
@@ -58,6 +62,8 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 	(b) contains the Entity's contact information; and
   
 	(c) is submitted to the DPL Website.
+
+        (d) was made no sooner than one year after any written exclusive license agreement or other written agreement that precludes or is inconsistent with the grant of a license to Licensee of the scope that would otherwise be granted in this License
   
 13. 'Patent' means any right, now or later acquired, under any national or international patent law from a governmental body authorized to issue such rights, including rights embodied within patent applications, granted patents, including, but not limited to, continuations, continuations-in-part, divisionals, provisionals, results of any patent reexaminations, and reissues.
 
@@ -118,4 +124,3 @@ LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LIC
 ### Amendment ###
 
 If the DPL Foundation should announce on the DPL website an updated version of this agreement, then, as of one year after the announcement of the new version (such time being the 'Upgrade Time'), all parties to this agreement automatically consent to its replacement with the updated version unless they opt-out by submitting an Opt-Out annoucement to the DPL Foundation before the Upgrade Time.
-
