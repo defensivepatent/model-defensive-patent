@@ -130,6 +130,23 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
         (b) a merger, consolidation or other reorganization or recapitalization of such DPL User with an Entity or a direct or indirect subsidiary of such Entity (the 'Surviving Entity'), provided that the result of such merger, consolidation or other reorganization or recapitalization, whether in one or a series of related transactions, is that the holders of the outstanding voting stock of such DPL User immediately prior to such consummation do not possess, whether directly or indirectly, immediately after the consummation of such transaction, in excess of 50% of the combined voting power of all then-issued and outstanding stock of the Surviving Entity, or its direct or indirect parent.
 
 
+### Transfers ###
+
+a) In the event a Licensor (the 'Transferring Licensor') transfers a Patent or Patent application during its Participation Period, (a 'Transfer'), other than by operation of law, then prior to the Transfer the Transferring Licensor automatically grants, to each Licensee existing at the time of the Transfer, a worldwide, royalty-free, non-exclusive, non-transferable license under such transferred Patent and to any Patent that may issue based upon such transferred Patent application (collectively, the 'Transferred Patents') to make, have made (subject to the provisions of Section 2.1(b) above), operate, use, sell, offer for sale, import, or distribute Licensed Products and Services, and such grant shall automatically continue after such Transfer with respect to each Licensee at the time of the Transfer for so long as each such Licensee remains a DPL User; provided that, such License shall terminate whichever is sooner of:
+
+       (i) as to a particular Licensee upon any applicable Discontinuation Date of such Licensee
+
+       (ii) if and only if the transfer is a Non-Assertion Transfer (as defined in Section 2.4(c)), then the License shall also terminate, for all Licensees, upon the three years from the date of the transfer. 
+
+(b) Licensor shall give written notice to the transferee at the time of the transfer that each Transferred Patent shall be subject to the License set forth herein in accordance with the preceding sentence and in accordance with Section 2.4(d) below. Licensor shall give written notice to the DPL Foundation at the time of the transfer of the patents transferred, and the identity of the transferee, unless the transferree is also a DPL User who has not made a Discontinuation Announcement after their most recent Offering Announcement.
+
+(c) For purposes of this Section 2.4, a 'Non-Assertion Transfer' means a transaction in which there is a Transfer by a Transferring Licensor of one or more Transferred Patents to a transferee and both of the following are true:
+        (i) such transaction is accompanied by a substantially contemporaneous transfer of a business line of the Transferring Licensor to which the Transferred Patents relate and the transferee actively continues to engage in such transferred part of the business after the Transfer and 
+        (ii) the transferee is not an entity that derives the majority of its revenue through patent assertion.
+
+d) For all patent transfers, including but not limited to patents transfers by operation of law or in connection with a Non-Assertion Transfer, each DPL User agrees that any financial benefit received by the Transferring Licensor before, after, or in conjuction with the Transfer based on patent assertion by the transferee of the Transferred Patents will be returned to any DPL User against whom such patent assertion is made.
+
+
 ### Disclaimer of Warranties ###
 
 UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE PATENT LICENSE GRANTED HEREIN “AS IS” AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED PATENTS OR ANY PRODUCT OR SERVICE PRACTICING ANY LICENSED PATENT, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE PRESENCE OR ABSENCE OF ERRORS, REGARDLESS OF THEIR DISCOVERABILITY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, IN WHICH CASE SUCH EXCLUSION MAY NOT APPLY TO LICENSEE. Without limiting the generality of the foregoing, each Licensor disclaims any and all warranties as to title or the validity of its Licensed Patents or that the exercise of the License granted by Licensor hereunder will not infringe the patent, copyright, trademark, trade secret, or other intellectual property rights of any third party.
@@ -154,4 +171,3 @@ They also incur an obligation to bind any successors or any parties that they tr
 ### Amendment ###
 
 If the DPL Foundation should announce on the DPL website an updated version of this agreement, then, as of one year after the announcement of the new version (such time being the 'Upgrade Time'), all parties to this agreement automatically consent to its replacement with the updated version unless they opt-out by submitting an Opt-Out annoucement to the DPL Foundation before the Upgrade Time.
-
