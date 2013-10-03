@@ -19,7 +19,7 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(a) declares the DPL User’s intent to discontinue offering to license its Licensed Patents under the DPL on the Discontinuation Date; and
   
-	(b) is submitted by an authorized representative to the DPL Website six months prior to a Discontinuation Date.
+	(b) is submitted by an authorized representative to the DPL Website three (3) years prior to a Discontinuation Date.
   
 3.  'DPL User' means an Entity that:
   
@@ -27,7 +27,9 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 	(b) and, if the Entity has made a Discontinuation Announcement, the Discontinuation Date has not yet occurred.
 
-4. 'Discontinuation Date' means the date six (6) months after the date a Discontinuation Announcement is submitted to the DPL Website.
+	An entity or individual shall be considered a DPL User only during its Participation Period(s).
+
+4. 'Discontinuation Date' means the date three (3) years after the date a Discontinuation Announcement is submitted to the DPL Website.
   
 5. 'DPL Website' means a website to be established by the DPL Foundation to publish DPL announcements.
   
@@ -69,13 +71,12 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
 
 “Entity” means an individual, corporation, trust, partnership, joint venture, limited liability company, association, unincorporated organization, subsidiary, company or other legal or governmental entity.
 
-
-
+'Participation Period' means, with respect to a particular DPL User, the period commencing on the date on which the DPL User has submitted an Offering Announcement to the DPL Website and such Offering Announcement has been signed by an authorized representative of the DPL and of the DPL User and ending on the Discontinuation Date corresponding to the first Discontinuation Announcement submitted by the DPL User after such Offering Announcement. A DPL User may have more than one Participation Period – for example, by submitting a first Offering Announcement followed by a first Discontinuation Announcement, followed by a second Offering Announcement, provided, however, that the subsequent Offering Announcement is submitted not less than 6 months after the previous Discontinuation Date. Participation Period shall not include any period of time between a Discontinuation Date and the date that the DPL User later submits another Offering Announcement, and any Offering Announcement that is submitted less than 6 months after a previous Discontinuation Date shall be of no effect in starting a new Participation Period.
   
 'Clone Product or Service' means a product or service of a Licensee that meets all of the following conditions:
   
 	(a) includes substantially identical functionality of all or a commercially substantial portion of a prior-released product or service (“Prior Product or Service”) of a Licensor
-  
+
 	(b) implements the same or substantially the same proprietary user interface of the Prior Product or Service
   
 	(c) targets the same market as the Prior Product or Service
@@ -92,12 +93,11 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
    
 
 
-
 ### 2. License Grant ###
-1(a) Subject to the conditions and limitations of this License, each Licensor hereby grants and agrees to grant to each Licensee a worldwide, royalty-free, non-exclusive, irrevocable (except as stated in Section 2.2(f)), non-transferable license, perpetual for the term of the relevant Licensed Patents, under such Licensor’s Licensed Patents, operate, use, sell, offer for sale, import, or distribute Licensed Products and Services.
+  
+1(a) Subject to the conditions and limitations of this License, each Licensor hereby grants and agrees to grant to each Licensee a worldwide, royalty-free, non-exclusive, non-transferable license under such Licensor’s Licensed Patents, for the term of such Licensor’s applicable Participation Period, to make, have made (subject to the provisions of Section 1(b) below), operate, use, sell, offer for sale, import, or distribute Licensed Products and Services.
   
 1(b) Limitations on Have Made Rights. The license granted to a Licensee in Section 2.1(a) to have products made by another manufacturer shall apply only if the design and specifications for such products are furnished by the Licensee in a substantially completed form to the manufacturer and the manufacturer adheres to the design and specifications so furnished. In addition, if a third party manufacturer making products under have-made rights transfers such products to any Entity other than the Licensee on whose behalf such products were made, those products will not be considered to be Licensed Products and Services and will not be within the scope of the license rights set forth in Section 2.1(a).
-
 
 2. Notwithstanding the foregoing, this License is expressly subject to and limited by the following restrictions:
   
@@ -144,6 +144,12 @@ LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS LIC
 
 6.3 Each DPL User and each of its Affiliates shall be a third party beneficiary of this Agreement with the right to enforce the terms and conditions of this Agreement directly against Licensor.
   
+### FRAND licensing after withdrawal ###
+If Licensor withdraws, then even after they cease to be a DPL user, that is, after their Discontinuation Date (if any), they incur a perpetual obligation to offer any patents that were Licensed Patents at any time during their Participation Period to any other entites who were Licensees at any time before Licensor's Discontinuation Announcement (Past Licensees), under fair, reasonable, and non-discriminatory (FRAND) terms.
+
+They also incur an obligation to bind any successors or any parties that they transfer the patents to, to do the same (to offer them on FRAND terms to the Past Licensees).
+
 ### Amendment ###
 
 If the DPL Foundation should announce on the DPL website an updated version of this agreement, then, as of one year after the announcement of the new version (such time being the 'Upgrade Time'), all parties to this agreement automatically consent to its replacement with the updated version unless they opt-out by submitting an Opt-Out annoucement to the DPL Foundation before the Upgrade Time.
+
