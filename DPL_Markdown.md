@@ -99,6 +99,8 @@ NOTICE: ALL RIGHTS IN LICENSED PATENTS (as defined below) PROVIDED UNDER THIS DE
   
 1(b) Limitations on Have Made Rights. The license granted to a Licensee in Section 2.1(a) to have products made by another manufacturer shall apply only if the design and specifications for such products are furnished by the Licensee in a substantially completed form to the manufacturer and the manufacturer adheres to the design and specifications so furnished. In addition, if a third party manufacturer making products under have-made rights transfers such products to any Entity other than the Licensee on whose behalf such products were made, those products will not be considered to be Licensed Products and Services and will not be within the scope of the license rights set forth in Section 2.1(a).
 
+1(c) Termination of Licenses Upon Withdrawal. If a DPL User withdraws from the DPL by issuing a Discontinuation Announcement then, as of the applicable Discontinuation Date, the License of the withdrawing DPL User and its Affiliates to the Licensed Patents of other Licensors is automatically terminated and each Licensee’s License to the Licensed Patents of the withdrawing DPL User and its Affiliates is automatically terminated.  
+
 2. Notwithstanding the foregoing, this License is expressly subject to and limited by the following restrictions:
   
 	(a) This License does not include the right to sublicense any Licensed Patent.
